@@ -20,4 +20,3 @@ INSERT INTO customer_spring (customer_id, customer_name, billingtime, billingamo
 	(1002, 'James',  '2020-02-24 00:00:00', 5000),
 	(1003, 'Rocky',  '2020-02-24 00:00:00', 100000);
 commit;
--- Dumping structure for table hibernatedemos.employee
